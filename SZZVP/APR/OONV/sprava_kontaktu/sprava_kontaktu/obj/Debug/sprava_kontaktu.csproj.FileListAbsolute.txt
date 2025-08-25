@@ -1,0 +1,7 @@
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\bin\Debug\sprava_kontaktu.exe.config
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\bin\Debug\sprava_kontaktu.exe
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\bin\Debug\sprava_kontaktu.pdb
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\obj\Debug\sprava_kontaktu.csproj.AssemblyReference.cache
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\obj\Debug\sprava_kontaktu.csproj.CoreCompileInputs.cache
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\obj\Debug\sprava_kontaktu.exe
+C:\Users\bruli\Desktop\bc-szz\bc-szz\SZZVP\APR\OONV\sprava_kontaktu\sprava_kontaktu\obj\Debug\sprava_kontaktu.pdb

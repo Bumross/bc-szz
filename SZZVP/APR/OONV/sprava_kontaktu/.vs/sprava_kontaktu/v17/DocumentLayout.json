@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\patterns\\commands\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\patterns\\commands\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\patterns\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\patterns\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|c:\\users\\bruli\\desktop\\bc-szz\\bc-szz\\szzvp\\apr\\oonv\\sprava_kontaktu\\sprava_kontaktu\\patterns\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\patterns\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\models\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\models\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\ui\\contactlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\ui\\contactlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\RecentChangesView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\UI\\RecentChangesView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|c:\\users\\bruli\\desktop\\bc-szz\\bc-szz\\szzvp\\apr\\oonv\\sprava_kontaktu\\sprava_kontaktu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\models\\contactbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\models\\contactbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ContactDetailView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\UI\\ContactDetailView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062B949F-88B2-40E6-9330-84CE6C6AEA41}|sprava_kontaktu\\ContactManager.csproj|solutionrelative:sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Patterns\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\ICommand.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Patterns\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:17:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\Contact.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Models\\Contact.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:23:47.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\Iterator.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Models\\Iterator.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\Iterator.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Models\\Iterator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:22:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactBook.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\ContactBook.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Models\\ContactBook.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Models\\ContactBook.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Models\\ContactBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:22:29.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\Commands.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Patterns\\Commands\\Commands.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\Commands.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Patterns\\Commands\\Commands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:23:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactListView.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ContactListView.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\UI\\ContactListView.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ContactListView.cs",
+              "RelativeToolTip": "sprava_kontaktu\\UI\\ContactListView.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:23:07.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\CommandManager.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Patterns\\Commands\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Commands\\CommandManager.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Patterns\\Commands\\CommandManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:22:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Program.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Program.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Program.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:18:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "sprava_kontaktu\\Patterns\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:18:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactDetailView.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ContactDetailView.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\UI\\ContactDetailView.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ContactDetailView.cs",
+              "RelativeToolTip": "sprava_kontaktu\\UI\\ContactDetailView.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:17:25.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecentChangesView.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\RecentChangesView.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\UI\\RecentChangesView.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\RecentChangesView.cs",
+              "RelativeToolTip": "sprava_kontaktu\\UI\\RecentChangesView.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:17:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "sprava_kontaktu\\UI\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\bruli\\Desktop\\bc-szz\\bc-szz\\SZZVP\\APR\\OONV\\sprava_kontaktu\\sprava_kontaktu\\UI\\ConsoleMenu.cs",
+              "RelativeToolTip": "sprava_kontaktu\\UI\\ConsoleMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:26:06.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
