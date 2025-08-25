@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Výsledky{% endblock %}
+{% block content %}
+    <h1>Agregované výsledky</h1>
+    <table>
+        <thead>
+            <tr><th>Stát</th><th>Počet</th></tr>
+        </thead>
+        <tbody>
+            {% for country, count in data %}
+            <tr><td>{{ country }}</td><td>{{ count }}</td></tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

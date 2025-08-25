@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Vizualizace{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="layout-wrapper">
+        <nav>
+            <a href="{{ url_for('index') }}">Úvod</a>
+            <a href="{{ url_for('vysledky') }}">Výsledky</a>
+        </nav>
+
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            Alex Schönfelder © 2025
+        </footer>
+    </div>
+</body>
+</html>
