@@ -1,0 +1,19 @@
+1. Vytvoření datových souborů
+    - jaké soubory, jak obsáhlé, jaké různé proměnné, rozsah atd
+    - segment zákazníků - podle toho, co prodávám, tak je dávám do určitých skupin - proč jsem vytvořil dané segmenty
+
+2. Tvorba dashboardu
+    - kde co je umístěné kde, proč
+
+3. Popis dashboardu
+    - obsah stránek, kde co najde, jaké filtry obsahují
+
+4. Definování KPI metrik
+
+5. Návrh rozhodnutí pro zlepšení výkonu
+
+
+
+Něco navíc:
+    - permise pro druhy zaměstnanců (například prodejce vs manažer)
+    - vysouvací panel s dalšími filtry

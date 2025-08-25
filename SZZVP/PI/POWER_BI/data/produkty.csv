@@ -1,0 +1,21 @@
+ID_produktu,Kategorie,Název,Cena
+P1,Inkoustové tiskárny,Inkoustová tiskárna HP,6444.46
+P2,Inkoustové tiskárny,Inkoustová tiskárna Canon,4936.19
+P3,Inkoustové tiskárny,Inkoustová tiskárna Epson,2500.19
+P4,Laserové tiskárny,Laserová tiskárna Brother,4044.34
+P5,Laserové tiskárny,Laserová tiskárna Xerox,2727.98
+P6,Laserové tiskárny,Laserová tiskárna Samsung,5285.55
+P7,Tonery,Toner HP černý,1796.79
+P8,Tonery,Toner HP barevný,841.35
+P9,Tonery,Toner Canon černý,1254.03
+P10,Tonery,Toner Canon barevný,1705.14
+P11,Tonery,Toner Epson černý,1529.57
+P12,Tonery,Toner Epson barevný,2129.97
+P13,Tonery,Toner Brother černý,1458.31
+P14,Tonery,Toner Brother barevný,527.22
+P15,Tonery,Toner Xerox černý,1266.16
+P16,Tonery,Toner Xerox barevný,742.29
+P17,Tonery,Toner Samsung černý,617.7
+P18,Tonery,Toner Samsung barevný,1241.92
+P19,Tonery,Univerzální toner černý,1862.66
+P20,Tonery,Univerzální toner barevný,2096.64
