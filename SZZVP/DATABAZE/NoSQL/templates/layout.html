@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Dashboard{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="layout-wrapper">
+        <nav>
+            <a href="{{ url_for('index') }}" class="{% if request.endpoint == 'index' %}active{% endif %}">Úvod</a>
+            <a href="{{ url_for('result_1') }}" class="{% if request.endpoint == 'result_1' %}active{% endif %}">Řešení 1</a>
+                    <a href="{{ url_for('result_1') }}" class="{% if request.endpoint == 'result_1' %}active{% endif %}">Řešení 1</a>
+            <a href="{{ url_for('result_1') }}" class="{% if request.endpoint == 'result_1' %}active{% endif %}">Řešení 1</a>
+
+        </nav>
+
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            Alex Schönfelder © 2025
+        </footer>
+    </div>
+</body>
+</html>
