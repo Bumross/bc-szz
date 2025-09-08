@@ -1,0 +1,44 @@
+﻿<Window x:Class="FractalTreeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fractal Tree" Height="600" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Panel s ovládáním -->
+        <StackPanel Grid.Column="0" Margin="10" RenderTransformOrigin="0.505,0.635">
+            <TextBlock Text="Počet iterací:"/>
+            <TextBox x:Name="IterationsBox" Text="10" Margin="0,5"/>
+
+            <TextBlock Text="Úhel (stupně):"/>
+            <TextBox x:Name="AngleBox" Text="30" Margin="0,5"/>
+
+            <TextBlock Text="Koeficient zkracování:"/>
+            <TextBox x:Name="ScaleBox" Text="0.7" Margin="0,5"/>
+
+            <TextBlock Text="Barva:"/>
+            <Button x:Name="ColorBtn" Content="Vyber barvu" Margin="0,5"/>
+            <Rectangle x:Name="ColorPreview" Height="20" Width="50" Stroke="Black" Fill="Black" Margin="0,5"/>
+
+
+            <Separator Margin="0,10"/>
+
+            <Button x:Name="StartBtn" Content="Start" Margin="0,2"/>
+            <Button x:Name="PauseBtn" Content="Pause" Margin="0,2"/>
+            <Button x:Name="ResumeBtn" Content="Resume" Margin="0,2"/>
+            <Button x:Name="StopBtn" Content="Stop" Margin="0,2"/>
+
+            <Separator Margin="0,10"/>
+
+            <Button x:Name="ExportBtn" Content="Export JSON" Margin="0,2"/>
+            <Button x:Name="ImportBtn" Content="Import JSON"/>
+        </StackPanel>
+
+        <!-- Canvas pro vykreslení -->
+        <Canvas x:Name="TreeCanvas" Grid.Column="1" Background="White"/>
+    </Grid>
+</Window>
